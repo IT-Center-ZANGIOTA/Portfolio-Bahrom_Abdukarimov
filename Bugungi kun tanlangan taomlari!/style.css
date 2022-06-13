@@ -1,0 +1,59 @@
+.foto {
+  width: 1200px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.foto .are {
+  width: 350px;
+  padding: 1rem;
+  background-color: #2ab62a;
+  border-radius: 12px;
+  margin-bottom: 1rem;
+}
+
+.foto .box {
+  border-radius: 90px;
+}
+
+.foto .box .ural {
+  width: 300px;
+  height: 300px;
+  text-align: center;
+  margin: 0 auto;
+  border-radius: 160px;
+}
+
+.foto .pul {
+  width: 100%;
+  color: #2a1fca;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.foto .dengi {
+  color: #e7210f;
+  text-transform: uppercase;
+  font-size: 1.6rem;
+  margin: 0px;
+}
+
+.foto .natija {
+  color: #1900ff;
+  background-color: #fbff00;
+  border-radius: 10px;
+  margin: 0;
+  padding: 10px;
+  font-weight: bold;
+}
+/*# sourceMappingURL=style.css.map */

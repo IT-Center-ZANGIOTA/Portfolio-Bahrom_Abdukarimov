@@ -1,0 +1,62 @@
+.section {
+    position: relative;
+    width: 100%;
+    height: 5504px;
+}
+
+.nav {
+    position: absolute;
+    width: 100%;
+    height: 75px;
+    left: 0px;
+    top: 0px;
+    background: #545454;
+}
+
+.hero {
+    position: absolute;
+    width: 1440px;
+    height: 845px;
+    left: 0px;
+    top: 120px;
+    background: #FFFFFF;
+}
+
+.title {
+    position: absolute;
+    width: 587px;
+    height: 144px;
+    left: 121px;
+    top: 215px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 150%;
+    letter-spacing: -0.01em;
+    color: #192252;
+}
+
+.text {
+    position: absolute;
+    width: 485px;
+    height: 81px;
+    left: 121px;
+    top: 383px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 150%;
+    color: #848FAC;
+}
+
+.img {
+    position: absolute;
+    width: 180px;
+    height: 588px;
+    left: 732px;
+    top: 80px;
+    background: url(meritt-thomas-u-Hb93V6IWI-unsplash.jpg);
+    border-radius: 4px;
+}

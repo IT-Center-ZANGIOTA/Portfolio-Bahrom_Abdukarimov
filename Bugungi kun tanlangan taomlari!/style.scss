@@ -1,0 +1,43 @@
+.foto {
+    width: 1200px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    .are {
+        width: 350px;
+        padding: 1rem;
+        background-color: rgb(42, 182, 42);
+        border-radius: 12px;
+        margin-bottom: 1rem;
+    }
+    .box {
+        border-radius: 90px;
+        .ural {
+            width: 300px;
+            height: 300px;
+            text-align: center;
+            margin: 0 auto;
+            border-radius: 160px;
+        }
+    }
+    .pul {
+        width: 100%;
+        color: rgb(42, 31, 202);
+        display: flex;
+        justify-content: space-between;
+    }
+    .dengi {
+        color: rgb(231, 33, 15);
+        text-transform: uppercase;
+        font-size: 1.6rem;
+        margin: 0px;
+    }
+    .natija {
+        color: rgb(25, 0, 255);
+        background-color: rgb(251, 255, 0);
+        border-radius: 10px;
+        margin: 0;
+        padding: 10px;
+        font-weight: bold;
+    }
+}
