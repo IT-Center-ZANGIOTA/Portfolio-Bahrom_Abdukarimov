@@ -1,0 +1,33 @@
+.page .section {
+  background-color: yellowgreen;
+}
+
+.page .section2 {
+  background-color: #f557a1;
+}
+
+.page .section2 li {
+  color: auto;
+}
+
+.page .section3 {
+  background-color: #ff2d42;
+}
+
+.page .section3 li {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: blue;
+}
+
+.page .section4 {
+  background-color: blue;
+}
+
+.page .section5 {
+  background-color: green;
+}
+
+.page .section5 li {
+  color: yellow;
+}
+/*# sourceMappingURL=style.css.map */
