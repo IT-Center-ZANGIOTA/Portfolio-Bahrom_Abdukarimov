@@ -1,0 +1,7 @@
+form {
+    width: 240px;
+    margin: 0 auto;
+    padding: 1rem;
+    border: 3px solid yellow;
+    background-image: linear-gradient(90deg, green, aqua, orange);
+}
