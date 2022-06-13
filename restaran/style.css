@@ -1,0 +1,429 @@
+.frime {
+    position: relative;
+    width: 1440px;
+    height: 10811px;
+    background: #FFFFFF;
+}
+
+.box {
+    position: absolute;
+    height: 370px;
+    width: 1440px;
+    left: 0%;
+    right: 0%;
+    top: 0px;
+    background: #292E36;
+    border-radius: 0px;
+}
+
+.text {
+    position: absolute;
+    height: 40px;
+    width: 160px;
+    left: 5%;
+    right: 0%;
+    top: 40px;
+    border: 2px solid #E1B168;
+    border-radius: 0px;
+}
+
+.btn {
+    position: absolute;
+    width: 160px;
+    height: 40px;
+    background: #E1B168;
+    left: 60%;
+    top: 40px;
+    color: #FFF;
+}
+
+.box1 {
+    position: absolute;
+    height: 810px;
+    width: 1440px;
+    left: 0%;
+    right: 0%;
+    top: 370px;
+    background: #292E36;
+    border-radius: 0px;
+}
+
+.title {
+    position: absolute;
+    width: 23px;
+    height: 80px;
+    left: 10%;
+    top: 270px;
+    color: #FFF;
+}
+
+.text1 {
+    position: absolute;
+    height: 60px;
+    width: 500px;
+    left: 0%;
+    right: 5.95%;
+    top: 171.17px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.2px;
+    color: #FFFFFF;
+}
+
+.wiw {
+    position: absolute;
+    height: 40px;
+    width: 160px;
+    left: 10%;
+    right: 0%;
+    top: 630px;
+    border: 2px solid #E1B168;
+    border-radius: 0px;
+    text-align: center;
+}
+
+.box3 {
+    position: absolute;
+    width: 1330px;
+    height: 117px;
+    background: #FFF8F5;
+    top: 1180px;
+}
+
+.box4 {
+    position: absolute;
+    height: 760px;
+    left: 0%;
+    right: 0%;
+    top: 12%;
+    background: #FFF8F5;
+    border-radius: 0px;
+}
+
+.title1 {
+    position: absolute;
+    height: 56px;
+    width: 355px;
+    left: 62.96%;
+    right: 43.72%;
+    top: 100.34px;
+    font-family: 'Cormorant Infant';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 56px;
+    color: #292E36;
+}
+
+.text2 {
+    position: absolute;
+    height: 90px;
+    width: 502px;
+    left: 62.96%;
+    right: 2.27%;
+    top: 176.34px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.2px;
+    color: #555555;
+}
+
+.col {
+    position: absolute;
+    height: 60px;
+    left: 0%;
+    right: 9.85%;
+    top: 91px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    /* or 150% */
+    letter-spacing: 0.2px;
+    color: #555555
+}
+
+.yil {
+    position: absolute;
+    height: 74px;
+    left: 63%;
+    top: 300px;
+    font-family: 'Cormorant Infant';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 34px;
+    letter-spacing: 0.2px;
+    color: #292E36;
+}
+
+.text3 {
+    position: absolute;
+    height: 60px;
+    width: 225px;
+    left: 63%;
+    right: 9.85%;
+    top: 350px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.2px;
+    color: #555555;
+}
+
+.yil1 {
+    position: absolute;
+    height: 74px;
+    left: 83%;
+    top: 300px;
+    font-family: 'Cormorant Infant';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 34px;
+    letter-spacing: 0.2px;
+    color: #292E36;
+}
+
+.text4 {
+    position: absolute;
+    height: 60px;
+    width: 225px;
+    left: 83%;
+    right: 9.85%;
+    top: 350px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.2px;
+    color: #555555;
+}
+
+.frame {
+    position: absolute;
+    height: 56px;
+    left: 5%;
+    right: 23.66%;
+    top: 2117.34px;
+    font-family: 'Cormorant Infant';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 56px;
+    letter-spacing: 0.2px;
+    text-transform: capitalize;
+    color: #292E36;
+}
+
+.dish {
+    position: absolute;
+    height: 120px;
+    width: 450px;
+    left: 5%;
+    right: 1.07%;
+    top: 2183.34px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.2px;
+    color: #555555;
+}
+
+.testimonal {
+    position: absolute;
+    height: 652px;
+    left: 1%;
+    right: 0%;
+    top: 4435px;
+    background: #292E36;
+    border-radius: 0px;
+}
+
+.quti {
+    position: absolute;
+    height: 300px;
+    width: 336px;
+    left: 1%;
+    right: 0%;
+    top: 207px;
+    background: #343942;
+    border-radius: 0px;
+}
+
+.quti2 {
+    position: absolute;
+    height: 300px;
+    width: 336px;
+    left: 38%;
+    right: 0%;
+    top: 207px;
+    background: #343942;
+    border-radius: 0px;
+}
+
+.quti3 {
+    position: absolute;
+    height: 300px;
+    width: 336px;
+    left: 75%;
+    right: 0%;
+    top: 207px;
+    background: #343942;
+    border-radius: 0px;
+}
+
+.aylana {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: calc(50% - 20px/2 - 15px);
+    top: 90%;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 3px rgba(51, 51, 51, 0.4);
+    border-radius: 10px;
+}
+
+.aylana1 {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: calc(50% - 20px/2 + 15px);
+    top: 90%;
+    background: rgba(255, 255, 255, 0.4);
+    box-shadow: 0px 0px 3px rgba(51, 51, 51, 0.4);
+    border-radius: 10px;
+}
+
+.photo {
+    position: absolute;
+    width: 1426px;
+    height: 600px;
+    left: 1%;
+    top: 47%;
+}
+
+.photo1 {
+    position: absolute;
+    width: 1440px;
+    height: 600px;
+    left: 1%;
+    top: 54%;
+}
+
+.menuq {
+    position: absolute;
+    width: 60px;
+    height: 23px;
+    left: calc(50% - 60px/2);
+    top: 60%;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    /* identical to box height, or 150% */
+    text-align: center;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: #292E36;
+}
+
+.popular {
+    position: absolute;
+    width: 278px;
+    height: 56px;
+    left: calc(50% - 242px/2);
+    top: 60.34%;
+    font-family: 'Cormorant Infant';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 56px;
+    text-align: center;
+    letter-spacing: 0.2px;
+    text-transform: capitalize;
+    color: #292E36;
+}
+
+.textef {
+    position: absolute;
+    width: 760px;
+    height: 30px;
+    left: calc(50% - 760px/2);
+    top: 61.40%;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height, or 150% */
+    text-align: center;
+    letter-spacing: 0.2px;
+    color: #555555;
+}
+
+.frames {
+    position: absolute;
+    height: 515px;
+    left: 1%;
+    right: 0%;
+    top: 69%;
+    background: #292E36;
+    border-radius: 0px;
+}
+
+.vector {
+    position: absolute;
+    width: 100px;
+    left: 19%;
+    right: 0%;
+    top: 17%;
+    bottom: 0%;
+}
+
+.vector1 {
+    position: absolute;
+    width: 100px;
+    left: 19%;
+    right: 0%;
+    top: 17%;
+    bottom: 0%;
+}
+
+.vector2 {
+    position: absolute;
+    width: 100px;
+    left: 19%;
+    right: 0%;
+    top: 17%;
+    bottom: 0%;
+}
+
+.blog {
+    position: absolute;
+    width: 56px;
+    height: 23px;
+    left: calc(50% - 56px/2);
+    top: 75%;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    text-align: center;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: #292E36;
+}
