@@ -1,0 +1,61 @@
+.footer {
+    position: relative;
+    width: 1920px;
+    height: 5664px;
+    background: #F1F1F1;
+}
+
+.slon {
+    position: absolute;
+    width: 261px;
+    height: 54px;
+    left: 1%;
+    top: 50px;
+    background: #F0BF5F;
+    border-radius: 15px;
+    color: #FFF;
+}
+
+.nomer {
+    position: absolute;
+    left: 20%;
+    right: 0%;
+    top: 72px;
+    bottom: 0%;
+    font-family: 'Muller';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 20px;
+    color: #666666;
+}
+
+.navs {
+    position: absolute;
+    width: 1170px;
+    height: 70px;
+    left: 17px;
+    top: 114px;
+    background: #FFFFFF;
+    border-radius: 15px;
+}
+
+.title1 {
+    position: absolute;
+    width: 357px;
+    height: 40px;
+    left: 1%;
+    top: 254px;
+    font-family: 'Muller';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 40px;
+    color: #333333
+}
+
+.section {
+    position: absolute;
+    top: 35%;
+    left: 1%;
+}
