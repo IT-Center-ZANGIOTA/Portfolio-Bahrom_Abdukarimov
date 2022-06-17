@@ -218,9 +218,6 @@
      text-align: center;
  }
  
- .ism:hover {
-     border: 2px solid blue
- }
  
  .familya {
      position: relative;
@@ -233,9 +230,7 @@
      text-align: center;
  }
  
- .familya:hover {
-     border: 2px solid blue;
- }
+ 
  
  .buyurtma {
      position: relative;
