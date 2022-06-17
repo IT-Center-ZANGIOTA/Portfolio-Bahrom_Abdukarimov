@@ -250,9 +250,6 @@
      cursor: pointer;
  }
  
- .buyurtma:hover {
-     border: 3px solid green;
- }
  
  .rasm {
      position: absolute;
